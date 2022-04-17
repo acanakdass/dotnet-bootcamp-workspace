@@ -1,0 +1,15 @@
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/bin/Debug/net6.0/solid-principles
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/bin/Debug/net6.0/solid-principles.deps.json
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/bin/Debug/net6.0/solid-principles.runtimeconfig.json
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/bin/Debug/net6.0/solid-principles.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/bin/Debug/net6.0/solid-principles.pdb
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.csproj.AssemblyReference.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.AssemblyInfoInputs.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.AssemblyInfo.cs
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.csproj.CoreCompileInputs.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/refint/solid-principles.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.pdb
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/solid-principles.genruntimeconfig.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/solid-principles/obj/Debug/net6.0/ref/solid-principles.dll

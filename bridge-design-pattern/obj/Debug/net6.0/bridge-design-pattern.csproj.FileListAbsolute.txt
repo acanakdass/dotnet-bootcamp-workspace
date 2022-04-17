@@ -1,0 +1,12 @@
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/bin/Debug/net6.0/bridge-design-pattern.deps.json
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/bin/Debug/net6.0/bridge-design-pattern.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/bin/Debug/net6.0/bridge-design-pattern.pdb
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/bridge-design-pattern.csproj.AssemblyReference.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/bridge-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/bridge-design-pattern.AssemblyInfoInputs.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/bridge-design-pattern.AssemblyInfo.cs
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/bridge-design-pattern.csproj.CoreCompileInputs.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/bridge-design-pattern.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/refint/bridge-design-pattern.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/bridge-design-pattern.pdb
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/bridge-design-pattern/obj/Debug/net6.0/ref/bridge-design-pattern.dll

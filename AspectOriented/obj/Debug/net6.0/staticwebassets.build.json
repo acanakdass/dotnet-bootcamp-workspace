@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "zS7CbTMqFpZCW30RPM2WoK7yYgmIZcLu/Ok9jlZazL0=",
+  "Source": "AspectOriented",
+  "BasePath": "_content/AspectOriented",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspectOriented/wwwroot",
+      "Source": "AspectOriented",
+      "ContentRoot": "/Users/ahmetcanakdas/RiderProjects/DotnetBootcampWS/AspectOriented/wwwroot/",
+      "BasePath": "_content/AspectOriented",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ahmetcanakdas/RiderProjects/DotnetBootcampWS/AspectOriented/wwwroot/Logs/error-logs.txt",
+      "SourceId": "AspectOriented",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmetcanakdas/RiderProjects/DotnetBootcampWS/AspectOriented/wwwroot/",
+      "BasePath": "_content/AspectOriented",
+      "RelativePath": "Logs/error-logs.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Logs/error-logs.txt"
+    },
+    {
+      "Identity": "/Users/ahmetcanakdas/RiderProjects/DotnetBootcampWS/AspectOriented/wwwroot/Logs/logs.txt",
+      "SourceId": "AspectOriented",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ahmetcanakdas/RiderProjects/DotnetBootcampWS/AspectOriented/wwwroot/",
+      "BasePath": "_content/AspectOriented",
+      "RelativePath": "Logs/logs.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Logs/logs.txt"
+    }
+  ]
+}

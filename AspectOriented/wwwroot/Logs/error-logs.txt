@@ -1,0 +1,68 @@
+ip_address: ::1 
+date: 04/15/2022 04:01:16 
+error_message An exc occuredaction : GetAll 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 04:26:55 
+error_message The type initializer for 'AspectOriented.DataAccess.Repository' threw an exception.
+action : Post 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 10:24:14 
+error_message An exc occured
+action : GetAll 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 10:25:44 
+error_message The type initializer for 'AspectOriented.DataAccess.Repository' threw an exception.
+action : Post 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 10:28:48 
+error_message An exc occured
+action : GetAll 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 10:38:40 
+error_message Validation failed: 
+ -- Email: The length of 'Email' must be at least 10 characters. You entered 6 characters. Severity: Error
+ -- Email: 'Email' is not a valid email address. Severity: Error
+action : Post 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 10:42:47 
+error_message Validation failed: 
+ -- Email: The length of 'Email' must be at least 10 characters. You entered 6 characters. Severity: Error
+ -- Email: 'Email' is not a valid email address. Severity: Error
+action : Post 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 11:14:51 
+error_message Could not find a part of the path '/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/AspectOriented/Logs/logs.txt'.
+action : GetAll 
+controller : Users 
+
+---------------------------------------------
+ip_address: ::1 
+date: 04/15/2022 11:17:26 
+error_message Validation failed: 
+ -- Email: The length of 'Email' must be at least 10 characters. You entered 6 characters. Severity: Error
+ -- Email: 'Email' is not a valid email address. Severity: Error
+action : Post 
+controller : Users 
+
+---------------------------------------------

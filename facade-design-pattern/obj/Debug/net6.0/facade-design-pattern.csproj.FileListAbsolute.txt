@@ -1,0 +1,15 @@
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/bin/Debug/net6.0/facade-design-pattern
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/bin/Debug/net6.0/facade-design-pattern.deps.json
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/bin/Debug/net6.0/facade-design-pattern.runtimeconfig.json
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/bin/Debug/net6.0/facade-design-pattern.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/bin/Debug/net6.0/facade-design-pattern.pdb
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.csproj.AssemblyReference.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.AssemblyInfoInputs.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.AssemblyInfo.cs
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.csproj.CoreCompileInputs.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/refint/facade-design-pattern.dll
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.pdb
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/facade-design-pattern.genruntimeconfig.cache
+/Users/ahmetcanakdas/RiderProjects/dotnet-workspace/facade-design-pattern/obj/Debug/net6.0/ref/facade-design-pattern.dll
